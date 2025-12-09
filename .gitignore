@@ -1,5 +1,6 @@
 .mypy_cache
 .pytest_cache
+utils/__pyache__
 .venv
 .vscode
 htmlcov

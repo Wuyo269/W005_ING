@@ -11,3 +11,4 @@ debug.py
 files/*
 !files/output/
 !files/uncategorised/
+!files/*.json

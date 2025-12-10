@@ -60,7 +60,6 @@
         "PIZZERIA": "RESTAURACJA",
         "MR FOX KATOWICE": "RESTAURACJA",
         "LIMELEAF ASHFAKUZZAMAN": "RESTAURACJA",
-        "PLACEK  KATOWICE  POL": "RESTAURACJA",
         "Hurry Curry": "RESTAURACJA",
         "LUDIVERSUM": "RESTAURACJA",
         "ROSSMANN": "ROSSMANN",
@@ -86,13 +85,10 @@
         "Zakład Usług Wodnych i Kanalizacyjnych": "PRĄD",
         "MYJNIA": "AUTO",
         "SHELL": "PALIWO",
-        "ANNA KRYSTIAN GIDEK": "MIĘSO",
         "BALICE MANUAL": "TRANSPORT",
         "DECATHLON": "UBRANIA",
         "DEICHMANN": "UBRANIA",
         "RESERVED": "UBRANIA",
-        "ZEN.COM": "DELETE",
-        "Revolut": "DELETE",
     },
     "Title": {
         "gemini.pl": "APTEKA",
@@ -122,6 +118,6 @@
         "booking.com": "NADZWYCZAJNE",
         "YouTube Premium": "SUBSKRYPCJA",
         "ebok.tauron.pl": "PRĄD",
-        "Przelew własny": "DELETE",
+        "Przelew własny": "DELETE"
     }
 }

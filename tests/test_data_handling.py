@@ -1,5 +1,5 @@
 """
-This file is used to test function in 'file_handling.py' file
+This file is used to test function in 'data_handling.py' file
 """
 
 import logging

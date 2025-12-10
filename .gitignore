@@ -13,5 +13,9 @@ files/*
 files/input/**
 !files/input/.gitkeep
 !files/output/
+files/output/**
+!files/output/.gitkeep
 !files/uncategorised/
-!files/*.json
+files/uncategorised/**
+files/uncategorised/.gitkeep
+# !files/*.json

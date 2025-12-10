@@ -30,6 +30,7 @@ from config import (
     CATEGORIES_MAPPING,
     FIELD_MAPPING,
     UNCATEGORISED,
+    INTPUT_FOLDER,
     OUTPUT_FOLDER,
 )
 
@@ -126,7 +127,7 @@ if __name__ == "__main__":
     file_extension = ".csv"
 
     transaction_file_path = get_transaction_file(
-        folder_path=FILES_FOLDER, pattern=file_pattern, extension=file_extension
+        folder_path=INTPUT_FOLDER, pattern=file_pattern, extension=file_extension
     )
     items = []
     items.append(transaction_file_path)

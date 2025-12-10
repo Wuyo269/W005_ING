@@ -1,16 +1,10 @@
+__pycache__/
+*.pyc
 .mypy_cache
 .pytest_cache
-utils/__pyache__
-tests/__pyache__
-log_config/__pyache__
 .venv
 .vscode
 htmlcov
 .coverage
 logs
 debug.py
-
-# files/**
-# !files/**/
-# !files/**/.gitkeep
-# !files/**/*.json

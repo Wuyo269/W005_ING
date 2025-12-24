@@ -18,4 +18,4 @@ files/output/**
 !files/uncategorised/
 files/uncategorised/**
 files/uncategorised/.gitkeep
-# !files/*.json
+!files/*.json

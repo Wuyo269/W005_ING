@@ -8,8 +8,8 @@ Application categorises banking transactions based on provided mapping.
 
 ### Installation
 1. Install Python 3.14+
-2. Create virtual environment -> `python venv venv`
-3. Install dependencies -> `python -m pip install requirements.txt `
+2. Create virtual environment -> `python -m venv venv`
+3. Install dependencies -> `python -m pip install -r requirements.txt `
 
 
 ## Usage
